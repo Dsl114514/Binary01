@@ -120,8 +120,6 @@ namespace ZeroCracker
                 }
             }
 
-            // 2. 绘制钥匙主体
-            // 3. 绘制旋转的光环效果
             int haloRadius = maxSize * 3 / 4;
             int pointCount = 32;
 
@@ -167,4 +165,5 @@ namespace ZeroCracker
         }
     }
 }
+
 
