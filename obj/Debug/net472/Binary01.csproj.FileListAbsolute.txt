@@ -1,0 +1,9 @@
+F:\Project\C#\HacknetPluginTemplate-main\bin\Debug\net472\Binary01.dll
+F:\Project\C#\HacknetPluginTemplate-main\bin\Debug\net472\Binary01.pdb
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.csproj.AssemblyReference.cache
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.AssemblyInfoInputs.cache
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.AssemblyInfo.cs
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.csproj.CoreCompileInputs.cache
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.dll
+F:\Project\C#\HacknetPluginTemplate-main\obj\Debug\net472\Binary01.pdb
